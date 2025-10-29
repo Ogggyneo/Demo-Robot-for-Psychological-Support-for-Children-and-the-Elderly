@@ -11,7 +11,7 @@ import subprocess
 import random
 mytext = 'Welcome to me'
 language = 'en'
-openai.api_key='sk-proj-JJU2IwhUbGM0SwWSH8hsT3BlbkFJAlguzp4iedZHb64FZdnI'
+openai.api_key='ENTER YOU API_KEY'
 load_dotenv()
 model = 'gpt-3.5-turbo'
 model = 'gpt-4'
