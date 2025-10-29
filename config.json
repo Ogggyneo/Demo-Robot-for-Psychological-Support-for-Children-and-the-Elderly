@@ -1,0 +1,28 @@
+{
+    "openai": {
+        "api_key": "YOUR_OPENAI_API_KEY",
+        "model": "gpt-4"
+    },
+    "speech_recognition": {
+        "language": "en",
+        "wake_words": ["hi friend", "special"],
+        "stop_word": "stop"
+    },
+    "greetings": [
+        "whats up master everyone",
+        "yeah?",
+        "Well, hello there, Master of Puns and Jokes - how's it going today?",
+        "Ahoy there, Captain everyone! How's the ship sailing?",
+        "Bonjour, Monsieur everyone! Comment ça va? Wait, why the hell am I speaking French?"
+    
+    ],
+    "todo": {
+        "script": "todo.py"
+    },
+    "oled": {
+        "script": "oled.py"
+    },
+    "motor": {
+        "script": "motor.py"
+    }
+}
